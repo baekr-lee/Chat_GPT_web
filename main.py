@@ -5,7 +5,7 @@ st.title('Hello World!')
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import HumanMessage, SystemMessage
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 chat = ChatOpenAI(
     temperature=0.7,
